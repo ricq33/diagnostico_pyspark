@@ -1,4 +1,4 @@
-# Examen Diagnostico JAVA to Big Data
+# Examen Diagnostico pySpark
 
 ## Instrucciones
 
